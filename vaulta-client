@@ -1,0 +1,11 @@
+vaulta-client/              ← your main project folder (repo root)
+│
+├── package.json
+│
+├── public/
+│   └── index.html
+│
+└── src/
+    ├── App.js
+    ├── index.js
+    └── index.css
